@@ -92,27 +92,29 @@ a:hover {
     color: white;
     text-align: center;
     margin-top: 50px;
+    margin-bottom: 50px;
 }
 .img11 {
     height: 200px;
     width: 200px;
-    margin-left: 200px;
+    margin-left: 100px;
    
 }
 .h2e {
     color: white;
-    margin-left: 240px;
-    margin-top: 60px;
+    text-align: center;
 }
 .img2-2 {
     width: 200px;
     height: 200px;
     text-align: center;
-    margin-left: 150px;
+    margin-left: 100px;
 }
 .section2b {
     display: flex;
-    margin-left: auto;
+    margin-left: 180px;
+    margin-bottom: 180px;
+    margin-right: 180px;
 }
 .pp2 {
     color: white;
@@ -128,4 +130,11 @@ a:hover {
     color: white;
     margin: 150px;
 
+}
+.img2-22 {
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 150px;
 }
